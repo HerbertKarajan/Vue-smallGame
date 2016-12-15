@@ -1,5 +1,5 @@
 {
-  "name": "vue-puzzle",
+  "name": "Vue-smallGame",
   "version": "0.0.1",
   "description": "table component of vue",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "dev": "webpack-dev-server --inline --hot --quiet",
     "build": "webpack"
   },
-  "author": "luozh",
+  "author": "Karajan",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.2.1",
